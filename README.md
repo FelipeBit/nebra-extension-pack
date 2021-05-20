@@ -1,16 +1,23 @@
-# README
+# Nebra Extension Pack (VSCODE)
 
-## This is the README for your extension pack "nebra-extension-pack"
+A collection of useful extensions for JS/TS developers.
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Extensions included
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+* Better Comments
+* CodeMetrics
+* Code Spell Checker
+* EditorConfig For VS Code
+* Eslint
+* GitLens
+* JavaScript (ES6) Code Snippets
+* Jest Snippets
+* Live Share
+* Markdown All In One
+* Path Intellisense
+* YAML
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Enjoy <3
 
-**Enjoy!**
+

@@ -23,8 +23,8 @@
         "xabikos.javascriptsnippets",
         "andys8.jest-snippets"
     ],
-    "publisher": "felipebit",
-    "icon": "logo.png",
+    "publisher": "FelipeBit",
+    "icon": "nebra.png",
     "galleryBanner": {
         "color": "#030518",
         "theme": "dark"
@@ -40,10 +40,10 @@
         "fullstack"
     ],
     "repository": {
-        "url": "https://github.com/React-Avancado/reactavancado-extension-pack"
+        "url": "https://github.com/FelipeBit/nebra-extension-pack"
     },
-    "homepage": "https://github.com/React-Avancado/reactavancado-extension-pack",
+    "homepage": "https://github.com/FelipeBit/nebra-extension-pack",
     "bugs": {
-        "url": "https://github.com/React-Avancado/reactavancado-extension-pack/issues"
+        "url": "https://github.com/FelipeBit/nebra-extension-pack/issues"
     }
 }

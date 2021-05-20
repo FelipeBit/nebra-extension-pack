@@ -1,0 +1,49 @@
+{
+    "name": "nebra-extension-pack",
+    "displayName": "Nebra Extension Pack",
+    "description": "A collection of useful extensions for JS/TS developers.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "streetsidesoftware.code-spell-checker",
+        "kisstkondoros.vscode-codemetrics",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "christian-kohler.path-intellisense",
+        "redhat.vscode-yaml",
+        "aaron-bond.better-comments",
+        "yzhang.markdown-all-in-one",
+        "ms-vsliveshare.vsliveshare",
+        "xabikos.javascriptsnippets",
+        "andys8.jest-snippets"
+    ],
+    "publisher": "felipebit",
+    "icon": "logo.png",
+    "galleryBanner": {
+        "color": "#030518",
+        "theme": "dark"
+    },
+    "keywords": [
+        "javascript",
+        "typescript",
+        "nebra",
+        "developers",
+        "useful",
+        "backend",
+        "frontend",
+        "fullstack"
+    ],
+    "repository": {
+        "url": "https://github.com/React-Avancado/reactavancado-extension-pack"
+    },
+    "homepage": "https://github.com/React-Avancado/reactavancado-extension-pack",
+    "bugs": {
+        "url": "https://github.com/React-Avancado/reactavancado-extension-pack/issues"
+    }
+}
